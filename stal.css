@@ -1,0 +1,62 @@
+body{
+	background-image: url("jk.jpg");
+}
+
+
+.btn-link{
+	color: red;
+	margin-left: 1100px;
+	margin-top: 10px;
+
+}
+.btn-primary{
+	margin-left: 1200px;
+	margin-top: -1100px;
+}
+.goo{
+	font-family: "Century Gothic";
+	margin-top: 70px;
+	margin-left: 520px;
+	font-size: 600%;
+	color:#2A3233;
+
+}
+#gt{
+	margin-left: 700px;
+	margin-top: 40px;
+	
+}
+#tg{
+	margin-left: 600px;
+	margin-top: -37px;
+	
+
+}
+.container{
+	margin-top: 190px;
+	color: #426665;
+	background-color:#2A3233;
+}
+a{
+	color: #426665
+}
+.mb-3{
+	width: 800px;
+	margin-left: 270px;
+	height: 10px;
+}
+.flex-container{
+	display: flex;
+}
+.form-control{
+	background-color: #2A3233;
+}
+.validate{
+	background-color: #2A3233;
+
+}
+.btn-light{
+	background-color: #2A3233;
+
+}
+
